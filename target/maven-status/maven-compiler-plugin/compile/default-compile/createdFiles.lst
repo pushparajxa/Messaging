@@ -1,0 +1,5 @@
+com/comeon/server/messaging/ServerMessage.class
+com/comeon/client/messaging/MessageDecoder.class
+com/comeon/client/messaging/MessageEncoder.class
+com/comeon/client/messaging/ClientMessage.class
+com/comeon/server/messaging/UpdateMessage.class
